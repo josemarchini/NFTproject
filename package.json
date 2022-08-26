@@ -1,0 +1,10 @@
+{
+  "name": "nftproject",
+  "version": "1.22.19",
+  "description": "first project nft whit platzi",
+  "main": "index.js",
+  "repository": "https://github.com/josemarchini/NFTproject.git",
+  "author": "Jose Marchini",
+  "license": "MIT",
+  "private": false
+}
