@@ -24,6 +24,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.1.1",
     "chai": "^4.3.6",
+    "dotenv": "^16.0.1",
     "ethers": "^5.7.0",
     "install": "^0.13.0",
     "npm": "^8.18.0"
